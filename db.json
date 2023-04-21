@@ -1,11 +1,64 @@
-{"users": [
-    
-  ],
+{
+  "users": [],
   "posts": [
-    { "id": 1, "title": "json-server22", "author": "typicode" }
+    {
+      "id": 1,
+      "title": "json-server22",
+      "author": "typicode"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
-  "profile": { "name": "typicode" }
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "title": "沙發",
+      "origin-price": 20000,
+      "price": 18000,
+      "imageUrl": "https://i.imgur.com/AqiNGPR.png",
+      "inStock": true
+    },
+    {
+      "title": "質感床",
+      "origin-price": 30000,
+      "price": 20000,
+      "imageUrl": "https://i.imgur.com/FKhUTcG.jpg",
+      "inStock": true
+    },
+    {
+      "title": "木質床",
+      "origin-price": 25000,
+      "price": 20000,
+      "imageUrl": "https://i.imgur.com/ce9C4tO.png",
+      "inStock": false
+    },
+    {
+      "title": "成人書桌",
+      "origin-price": 20000,
+      "price": 15000,
+      "imageUrl": "https://i.imgur.com/utZyeHx.png",
+      "inStock": false
+    },
+    {
+      "title": "兒童書桌",
+      "origin-price": 15000,
+      "price": 10000,
+      "imageUrl": "https://i.imgur.com/4G6kdft.png",
+      "inStock": true
+    },
+    {
+      "title": "質感衣架",
+      "origin-price": 15000,
+      "price": 10000,
+      "imageUrl": "https://i.imgur.com/pJwljzm.png",
+      "inStock": true
+    }
+  ]
 }
