@@ -1,5 +1,12 @@
 {
   "users": [],
+  "todoList": [
+    {
+      "id": 1,
+      "isCompleted": false,
+      "content": ""
+    }
+  ],
   "posts": [
     {
       "id": 1,
