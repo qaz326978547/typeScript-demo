@@ -20,8 +20,39 @@
   "posts": [
     {
       "id": 1,
-      "title": "json-server22",
-      "author": "typicode"
+      "title": "api-test-1",
+      "author": "Rax",
+      "isMan": true
+    },
+    {
+      "id": 2,
+      "title": "api-test-2",
+      "author": "Max",
+      "isMan": true
+    },
+    {
+      "id": 3,
+      "title": "api-test-2",
+      "author": "Rick",
+      "isMan": true
+    },
+    {
+      "id": 4,
+      "title": "api-test-4",
+      "author": "Steven",
+      "isMan": false
+    },
+    {
+      "id": 5,
+      "title": "api-test-5",
+      "author": "May",
+      "isMan": false
+    },
+    {
+      "id": 6,
+      "title": "api-test-6",
+      "author": "Rax",
+      "isMan": true
     }
   ],
   "comments": [
